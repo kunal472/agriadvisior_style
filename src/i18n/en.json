@@ -1,0 +1,13 @@
+{
+  "dashboardTitle": "Your Dashboard",
+  "logoutButton": "Logout",
+  "selectFarm": "Select a Farm",
+  "getAdviceButton": "Get Recommendation",
+  "gettingAdviceButton": "Getting Advice...",
+  "noFarmsFound": "No farms found. Please add one.",
+  "recommendationTitle": "Recommendation for Selected Farm",
+  "homeLink": "Home",
+  "loginLink": "Login",
+  "footerText": "© 2025 Agri-Advisor",
+  "historyLink": "History"
+}

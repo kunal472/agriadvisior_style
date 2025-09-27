@@ -1,0 +1,13 @@
+{
+  "dashboardTitle": "तुमचा डॅशबोर्ड",
+  "logoutButton": "लॉगआउट",
+  "selectFarm": "शेत निवडा",
+  "getAdviceButton": "सल्ला मिळवा",
+  "gettingAdviceButton": "सल्ला मिळत आहे...",
+  "noFarmsFound": "एकही शेत आढळले नाही. कृपया एक जोडा.",
+  "recommendationTitle": " निवडलेल्या शेतीसाठी शिफारस",
+  "homeLink": "मुख्यपृष्ठ",
+  "loginLink": "लॉगिन",
+  "footerText": "© २०२५ कृषी-सल्लागार",
+  "historyLink": "इतिहास"
+}
